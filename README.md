@@ -1,8 +1,9 @@
-<h1 align='center'><i><samp> Hello 🍆 , I'm <a>Mahan moradi</a>!</samp></i></h1>
+<h1 align='center'><i><samp> Hello , I'm <a>Mahan moradi</a>!</samp></i></h1>
 <h4><b> I'm Mahan from Iran, and i'm a recat developer 🗿 </b></h4>
 
-- 🌱 <b><samp>I’m currently learning react and next</samp></b>
-- 😄 <b><samp>Pronouns: He/Him</samp></b> 
+- 🌱 <b><samp>I’m currently searching for job</samp></b>
+- 😄 <b><samp>Pronouns: از اسمم معلومه دیگه =|</samp></b> 
+- 🗿 <b><samp>ای کسانی که ایفون 5 و اس ای دارین خواهش میکنم , تمنا میکنم , التماس میکنم عوضش کنین. دهنم سرویس شده تا الان سر ریسپانسیوش. اخه کودوم گوشی نمایشگرش زیر 600 پیکسله که اپل *** به فکر این افتاده که نمایشگر 550 پیکسلی بزنی </samp></b> 
 
 ![Age](https://img.shields.io/badge/age%20-(now%20%3A%202022)%2015%20-265ebf?style=flat)
 ![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-25a16b?style=flat)
